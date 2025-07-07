@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Elemento 1",
+    "descripcion": "Descripción del elemento 1",
+    "imagen": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "nombre": "Elemento 2",
+    "descripcion": "Descripción del elemento 2",
+    "imagen": "https://via.placeholder.com/150"
+  }
+]
